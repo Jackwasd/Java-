@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f93765e-0c66-4ef7-957f-5ee8bddba79c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/冒泡排序/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/冒泡排序/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/冒泡排序/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/冒泡排序/src/com/jack/BubbleSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/冒泡排序/冒泡排序.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/归并排序/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/归并排序/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/归并排序/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/归并排序/src/com/jack/MergeSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/归并排序/归并排序.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/快速排序/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/快速排序/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/快速排序/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/快速排序/src/com/jack/QuickSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/算法/排序/快速排序/快速排序.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/java虚拟机/类加载/.idea/workspace.xml" afterPath="$PROJECT_DIR$/java虚拟机/类加载/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/算法/遍历二叉树/遍历二叉树-后序/.idea/workspace.xml" afterPath="$PROJECT_DIR$/算法/遍历二叉树/遍历二叉树-后序/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/算法/排序/快速排序/src/com/jack/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -323,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532505959121</updated>
       <workItem from="1532505960835" duration="269000" />
-      <workItem from="1532516380907" duration="2696000" />
+      <workItem from="1532516380907" duration="10191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2965000" />
+    <option name="totallyTimeSpent" value="10460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -489,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/算法/排序/快速排序/src/com/jack/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding />
         </state>
       </provider>
