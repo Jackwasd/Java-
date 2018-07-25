@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30640e1e-967b-450c-b50f-f19df4c51b90" name="Default" comment="" />
+    <list default="true" id="02889c16-5bec-4dc5-acf7-115cd8b2d220" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,25 +12,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/TreeNode.java">
+      <file leaf-file-name="ChooseSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jack/ChooseSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="132">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <element signature="e#171#172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jack/BackTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#chooseSort#0;class#ChooseSort#0" expanded="false" />
+                <element signature="method#chooseSort#0;class#ChooseSort#0" expanded="false" />
+                <element signature="method#swap#0;class#ChooseSort#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -53,8 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jack/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/jack/BackTree.java" />
+        <option value="$PROJECT_DIR$/src/com/jack/ChooseSort.java" />
       </list>
     </option>
   </component>
@@ -88,23 +77,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="遍历二叉树-后序" type="b2602c69:ProjectViewProjectNode" />
-              <item name="遍历二叉树-后序" type="462c0819:PsiDirectoryNode" />
+              <item name="选择排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="选择排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="遍历二叉树-后序" type="b2602c69:ProjectViewProjectNode" />
-              <item name="遍历二叉树-后序" type="462c0819:PsiDirectoryNode" />
+              <item name="选择排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="选择排序" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="遍历二叉树-后序" type="b2602c69:ProjectViewProjectNode" />
-              <item name="遍历二叉树-后序" type="462c0819:PsiDirectoryNode" />
+              <item name="选择排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="选择排序" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="遍历二叉树-后序" type="b2602c69:ProjectViewProjectNode" />
-              <item name="遍历二叉树-后序" type="462c0819:PsiDirectoryNode" />
+              <item name="选择排序" type="b2602c69:ProjectViewProjectNode" />
+              <item name="选择排序" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jack" type="462c0819:PsiDirectoryNode" />
@@ -113,9 +102,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -227,17 +216,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30640e1e-967b-450c-b50f-f19df4c51b90" name="Default" comment="" />
-      <created>1532508405422</created>
+      <changelist id="02889c16-5bec-4dc5-acf7-115cd8b2d220" name="Default" comment="" />
+      <created>1532520822277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532508405422</updated>
-      <workItem from="1532508412317" duration="1411000" />
+      <updated>1532520822277</updated>
+      <workItem from="1532520825072" duration="1381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1411000" />
+    <option name="totallyTimeSpent" value="1381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -282,22 +271,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jack/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jack/ChooseSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="132">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jack/BackTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#chooseSort#0;class#ChooseSort#0" expanded="false" />
+            <element signature="method#chooseSort#0;class#ChooseSort#0" expanded="false" />
+            <element signature="method#swap#0;class#ChooseSort#0" expanded="false" />
           </folding>
         </state>
       </provider>
